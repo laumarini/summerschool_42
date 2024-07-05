@@ -53,29 +53,29 @@
                <l facs="#facs_42_l_1351" n="N001">18</l></fw>
             <p facs="#facs_42_tr_1">
                <l facs="#facs_42_tr_1_tl_1" n="N001">said he <speech continued="true"><sp><speaker n="Lestrade"></speaker>"But the writing in between is very bad and there are three</sp></speech></l>
-               <l facs="#facs_42_tr_1_tl_2" n="N002"><speech continued="true"><sp><speaker n="Lestrade"></speaker>places where I cannot read it at all"</sp></speech></l>
-               <l rend="indent" facs="#facs_42_tr_1_tl_3" n="N003"><speech continued="true"><sp><speaker n="Holmes"></speaker>"What do you make of that?"</sp></speech> said <rs type="person">Holmes</rs>.</l>
-               <l rend="indent" facs="#facs_42_tr_1_tl_4" n="N004"><speech><sp><speaker n="Lestrade"></speaker>"Well, what do <hi rend="u">you</hi> make of it?"</sp></speech></l>
-               <l rend="indent" facs="#facs_42_tr_1_tl_5" n="N005"><speech continued="true"><sp><speaker n="Holmes"></speaker>"That it was written in a train, the good writing represents</sp></speech></l>
+               <l facs="#facs_42_tr_1_tl_2" n="N002"><speech continued="true"><sp><speaker n="Lestrade"></speaker>places where I cannot read it at all"</sp></speech></l><lb/></p>
+               <p><l rend="indent" facs="#facs_42_tr_1_tl_3" n="N003"><speech continued="true"><sp><speaker n="Holmes"></speaker>"What do you make of that?"</sp></speech> said <rs type="person">Holmes</rs>.</l><lb/>
+               <p><l rend="indent" facs="#facs_42_tr_1_tl_4" n="N004"><speech><sp><speaker n="Lestrade"></speaker>"Well, what do <hi rend="u">you</hi> make of it?"</sp></speech></l><lb/></p>
+               <p><l rend="indent" facs="#facs_42_tr_1_tl_5" n="N005"><speech continued="true"><sp><speaker n="Holmes"></speaker>"That it was written in a train, the good writing represents</sp></speech></l>
                <l facs="#facs_42_tr_1_tl_6" n="N006"><speech continued="true"><sp><speaker n="Holmes"></speaker>stations, the bad writing movement, and the very bad writing</sp></speech></l>
                <l facs="#facs_42_tr_1_tl_7" n="N007"><speech continued="true"><sp><speaker n="Holmes"></speaker>passing over points. A scientific expert would pronounce at once</sp></speech></l>
                <l facs="#facs_42_tr_1_tl_8" n="N008"><speech continued="true"><sp><speaker n="Holmes"></speaker>that this was drawn up on a suburban line since no where save</sp></speech></l>
                <l facs="#facs_42_l_1372" n="N009"><speech continued="true"><sp><speaker n="Holmes"></speaker>in the immediate vicinity of a great city could there be</sp></speech></l>
                <l facs="#facs_42_tr_1_tl_9" n="N010"><add><speech continued="true"><sp><speaker n="Holmes"></speaker>so</sp></speech></add></l>
-               <l facs="#facs_42_l_1373" n="N011"><speech continued="true"><sp><speaker n="Holmes"></speaker> <del>a</del> quick a</sp></speech></l>
+               <l facs="#facs_42_l_1373" n="N011"><speech continued="true"><sp><speaker n="Holmes"></speaker> <del>a</del> quick <add>a</add></sp></speech></l>
                <l facs="#facs_42_l_1446" n="N012"><speech continued="true"><sp><speaker n="Holmes"></speaker>succession of points.</sp><del>"</del></speech></l>
                <add><l facs="#facs_42_tr_1_tl_11" n="N013"><speech continued="true"><sp><speaker n="Holmes"></speaker>Granting that his whole journey was occupied in</sp></speech></l>
                <l facs="#facs_42_l_1447" n="N014"><speech continued="true"><sp><speaker n="Holmes"></speaker>drawing up the will, then the train was an express</sp></speech></l>
-               <l facs="#facs_42_tr_1_tl_13" n="N015"><speech continued="true"><sp><speaker n="Holmes"></speaker>only stopping once between <rs type="place">Norwood <choice><expan/><abbr>&amp;</abbr></choice> London Bridge</rs></sp></speech>.</l></add>
-               <l rend="indent" facs="#facs_42_tr_1_tl_14" n="N016"><rs type="person">Lestrade</rs> began to laugh.</l>
-               <l rend="indent" facs="#facs_42_tr_1_tl_15" n="N017">"<speech continued="true"><sp><speaker n="Lestrade"></speaker>You are too many for me when you begin to get on</sp></speech></l>
-               <l facs="#facs_42_tr_1_tl_16" n="N018"><speech continued="true"><sp><speaker n="Lestrade"></speaker>your theories, <rs type="person">Mr. Holmes</rs></sp></speech>" said he "<speech continued="true"><sp><speaker>LESTRADE</speaker>How does this bear on the</sp></speech></l>
-               <l facs="#facs_42_tr_1_tl_17" n="N019"><speech continued="true"><sp><speaker n="Lestrade"></speaker>case"</sp></speech></l>
-               <l rend="indent" facs="#facs_42_tr_1_tl_18" n="N020"><speech continued="true"><sp><speaker n="Holmes"></speaker>"Well, it corroborates the young mans story to the</sp></speech></l>
+               <l facs="#facs_42_tr_1_tl_13" n="N015"><speech continued="true"><sp><speaker n="Holmes"></speaker>only stopping once between <rs type="place">Norwood <choice><expan/><abbr>&amp;</abbr></choice> London Bridge</rs></sp></speech>.</l></add><lb/></p>
+               <p><l rend="indent" facs="#facs_42_tr_1_tl_14" n="N016"><rs type="person">Lestrade</rs> began to laugh.</l><lb/></p>
+               <p><l rend="indent" facs="#facs_42_tr_1_tl_15" n="N017">"<speech continued="true"><sp><speaker n="Lestrade"></speaker>You are too many for me when you begin to get on</sp></speech></l>
+               <l facs="#facs_42_tr_1_tl_16" n="N018"><speech continued="true"><sp><speaker n="Lestrade"></speaker>your theories, <rs type="person">Mr. Holmes</rs></sp></speech>" said he "<speech continued="true"><sp>How does this bear on the</sp></speech></l>
+               <l facs="#facs_42_tr_1_tl_17" n="N019"><speech continued="true"><sp><speaker n="Lestrade"></speaker>case"</sp></speech></l><lb/></p>
+               <p><l rend="indent" facs="#facs_42_tr_1_tl_18" n="N020"><speech continued="true"><sp><speaker n="Holmes"></speaker>"Well, it corroborates the young mans story to the</sp></speech></l>
                <l facs="#facs_42_tr_1_tl_19" n="N021"><speech continued="true"><sp><speaker n="Holmes"></speaker>extent that the will was drawn up by <rs type="person">Jonas Oldacre</rs> in his</sp></speech></l>
                <l facs="#facs_42_tr_1_tl_20" n="N022"><speech continued="true"><sp><speaker n="Holmes"></speaker>journey <del><rs type="place">from Norwood to London Bridge</rs></del> yesterday. It is</sp></speech></l>
                <l facs="#facs_42_tr_1_tl_21" n="N023"><speech continued="true"><sp><speaker n="Holmes"></speaker>curious, is it not, that a man should draw up so important a</sp></speech></l>
-               <l facs="#facs_42_tr_1_tl_22" n="N024"><speech continued="true"><sp><speaker n="Holmes"></speaker>document in so haphazard a fashion. It suggests that he did</sp></speech></l></p></div>
-      </body>
+               <l facs="#facs_42_tr_1_tl_22" n="N024"><speech continued="true"><sp><speaker n="Holmes"></speaker>document in so haphazard a fashion. It suggests that he did</sp></speech></l></p>
+      </p></div></body>
    </text>
 </TEI>

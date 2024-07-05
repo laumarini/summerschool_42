@@ -11,7 +11,7 @@ img {
 }
 
 p {
-    text-indent: 10px;
+    text-indent: 40px;
 }
 
 .row {
@@ -32,3 +32,14 @@ p {
   text-decoration: line-through;
 }
 
+h1 {
+  color:darkgreen
+}
+
+h2 {
+  color:darkolivegreen
+}
+
+h4 {
+  color:olive
+}
