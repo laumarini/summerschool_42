@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2024</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5278" lry="7115" xml:id="facs_42">
+         <graphic url="0042_042_19v.jpeg" width="5278px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GQZQIZDIZQJWWEZNFMTTOBNX&amp;fileType=view" width="5278px" height="7115px"/>
+         <zone points="4631,336 4841,336 4841,596 4631,596" rendition="TextRegion" xml:id="facs_42_r" subtype="page-number">
+            <zone points="4626,311 4824,311 4824,808 4626,808" rendition="Line" xml:id="facs_42_l_1351"/>
+         </zone>
+         <zone points="218,956 5055,956 5055,6705 218,6705" rendition="TextRegion" xml:id="facs_42_tr_1" subtype="paragraph">
+            <zone points="275,904 5009,904 5009,1323 275,1323" rendition="Line" xml:id="facs_42_tr_1_tl_1"/>
+            <zone points="287,1281 2795,1281 2795,1634 287,1634" rendition="Line" xml:id="facs_42_tr_1_tl_2"/>
+            <zone points="1047,1562 4064,1562 4064,1927 1047,1927" rendition="Line" xml:id="facs_42_tr_1_tl_3"/>
+            <zone points="1077,1885 3286,1885 3286,2202 1077,2202" rendition="Line" xml:id="facs_42_tr_1_tl_4"/>
+            <zone points="1077,2125 5027,2125 5027,2502 1077,2502" rendition="Line" xml:id="facs_42_tr_1_tl_5"/>
+            <zone points="192,2442 4644,2442 4644,2831 192,2831" rendition="Line" xml:id="facs_42_tr_1_tl_6"/>
+            <zone points="233,2765 5003,2765 5003,3118 233,3118" rendition="Line" xml:id="facs_42_tr_1_tl_7"/>
+            <zone points="233,3022 5045,3022 5045,3405 233,3405" rendition="Line" xml:id="facs_42_tr_1_tl_8"/>
+            <zone points="215,3352 4267,3352 4267,3675 215,3675" rendition="Line" xml:id="facs_42_l_1372"/>
+            <zone points="4261,3316 4435,3316 4435,3465 4261,3465" rendition="Line" xml:id="facs_42_tr_1_tl_9"/>
+            <zone points="4249,3352 5009,3352 5009,3639 4249,3639" rendition="Line" xml:id="facs_42_l_1373"/>
+            <zone points="203,3663 1825,3663 1825,4004 203,4004" rendition="Line" xml:id="facs_42_l_1446"/>
+            <zone points="1861,3579 4806,3579 4806,3806 1861,3806" rendition="Line" xml:id="facs_42_tr_1_tl_11"/>
+            <zone points="1807,3705 4932,3705 4932,3932 1807,3932" rendition="Line" xml:id="facs_42_l_1447"/>
+            <zone points="1921,3860 5009,3860 5009,4118 1921,4118" rendition="Line" xml:id="facs_42_tr_1_tl_13"/>
+            <zone points="1077,3980 2807,3980 2807,4309 1077,4309" rendition="Line" xml:id="facs_42_tr_1_tl_14"/>
+            <zone points="1071,4237 4746,4237 4746,4602 1071,4602" rendition="Line" xml:id="facs_42_tr_1_tl_15"/>
+            <zone points="251,4507 4854,4507 4854,4902 251,4902" rendition="Line" xml:id="facs_42_tr_1_tl_16"/>
+            <zone points="257,4914 664,4914 664,5195 257,5195" rendition="Line" xml:id="facs_42_tr_1_tl_17"/>
+            <zone points="1155,5105 4800,5105 4800,5554 1155,5554" rendition="Line" xml:id="facs_42_tr_1_tl_18"/>
+            <zone points="293,5398 4608,5398 4608,5817 293,5817" rendition="Line" xml:id="facs_42_tr_1_tl_19"/>
+            <zone points="263,5728 4537,5728 4537,6105 263,6105" rendition="Line" xml:id="facs_42_tr_1_tl_20"/>
+            <zone points="269,6051 4962,6051 4962,6404 269,6404" rendition="Line" xml:id="facs_42_tr_1_tl_21"/>
+            <zone points="239,6332 4932,6332 4932,6739 239,6739" rendition="Line" xml:id="facs_42_tr_1_tl_22"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_42" n="42" xml:id="img_0042"/><fw type="page-number" facs="#facs_42_r" place="top">
+               <l facs="#facs_42_l_1351" n="N001">18</l></fw>
+            <p facs="#facs_42_tr_1">
+               <l facs="#facs_42_tr_1_tl_1" n="N001">said he <speech continued="true"><sp><speaker n="Lestrade"></speaker>"But the writing in between is very bad and there are three</sp></speech></l>
+               <l facs="#facs_42_tr_1_tl_2" n="N002"><speech continued="true"><sp><speaker n="Lestrade"></speaker>places where I cannot read it at all"</sp></speech></l>
+               <l rend="indent" facs="#facs_42_tr_1_tl_3" n="N003"><speech continued="true"><sp><speaker n="Holmes"></speaker>"What do you make of that?"</sp></speech> said <rs type="person">Holmes</rs>.</l>
+               <l rend="indent" facs="#facs_42_tr_1_tl_4" n="N004"><speech><sp><speaker n="Lestrade"></speaker>"Well, what do <hi rend="u">you</hi> make of it?"</sp></speech></l>
+               <l rend="indent" facs="#facs_42_tr_1_tl_5" n="N005"><speech continued="true"><sp><speaker n="Holmes"></speaker>"That it was written in a train, the good writing represents</sp></speech></l>
+               <l facs="#facs_42_tr_1_tl_6" n="N006"><speech continued="true"><sp><speaker n="Holmes"></speaker>stations, the bad writing movement, and the very bad writing</sp></speech></l>
+               <l facs="#facs_42_tr_1_tl_7" n="N007"><speech continued="true"><sp><speaker n="Holmes"></speaker>passing over points. A scientific expert would pronounce at once</sp></speech></l>
+               <l facs="#facs_42_tr_1_tl_8" n="N008"><speech continued="true"><sp><speaker n="Holmes"></speaker>that this was drawn up on a suburban line since no where save</sp></speech></l>
+               <l facs="#facs_42_l_1372" n="N009"><speech continued="true"><sp><speaker n="Holmes"></speaker>in the immediate vicinity of a great city could there be</sp></speech></l>
+               <l facs="#facs_42_tr_1_tl_9" n="N010"><add><speech continued="true"><sp><speaker n="Holmes"></speaker>so</sp></speech></add></l>
+               <l facs="#facs_42_l_1373" n="N011"><speech continued="true"><sp><speaker n="Holmes"></speaker> <del>a</del> quick a</sp></speech></l>
+               <l facs="#facs_42_l_1446" n="N012"><speech continued="true"><sp><speaker n="Holmes"></speaker>succession of points.</sp><del>"</del></speech></l>
+               <add><l facs="#facs_42_tr_1_tl_11" n="N013"><speech continued="true"><sp><speaker n="Holmes"></speaker>Granting that his whole journey was occupied in</sp></speech></l>
+               <l facs="#facs_42_l_1447" n="N014"><speech continued="true"><sp><speaker n="Holmes"></speaker>drawing up the will, then the train was an express</sp></speech></l>
+               <l facs="#facs_42_tr_1_tl_13" n="N015"><speech continued="true"><sp><speaker n="Holmes"></speaker>only stopping once between <rs type="place">Norwood <choice><expan/><abbr>&amp;</abbr></choice> London Bridge</rs></sp></speech>.</l></add>
+               <l rend="indent" facs="#facs_42_tr_1_tl_14" n="N016"><rs type="person">Lestrade</rs> began to laugh.</l>
+               <l rend="indent" facs="#facs_42_tr_1_tl_15" n="N017">"<speech continued="true"><sp><speaker n="Lestrade"></speaker>You are too many for me when you begin to get on</sp></speech></l>
+               <l facs="#facs_42_tr_1_tl_16" n="N018"><speech continued="true"><sp><speaker n="Lestrade"></speaker>your theories, <rs type="person">Mr. Holmes</rs></sp></speech>" said he "<speech continued="true"><sp><speaker>LESTRADE</speaker>How does this bear on the</sp></speech></l>
+               <l facs="#facs_42_tr_1_tl_17" n="N019"><speech continued="true"><sp><speaker n="Lestrade"></speaker>case"</sp></speech></l>
+               <l rend="indent" facs="#facs_42_tr_1_tl_18" n="N020"><speech continued="true"><sp><speaker n="Holmes"></speaker>"Well, it corroborates the young mans story to the</sp></speech></l>
+               <l facs="#facs_42_tr_1_tl_19" n="N021"><speech continued="true"><sp><speaker n="Holmes"></speaker>extent that the will was drawn up by <rs type="person">Jonas Oldacre</rs> in his</sp></speech></l>
+               <l facs="#facs_42_tr_1_tl_20" n="N022"><speech continued="true"><sp><speaker n="Holmes"></speaker>journey <del><rs type="place">from Norwood to London Bridge</rs></del> yesterday. It is</sp></speech></l>
+               <l facs="#facs_42_tr_1_tl_21" n="N023"><speech continued="true"><sp><speaker n="Holmes"></speaker>curious, is it not, that a man should draw up so important a</sp></speech></l>
+               <l facs="#facs_42_tr_1_tl_22" n="N024"><speech continued="true"><sp><speaker n="Holmes"></speaker>document in so haphazard a fashion. It suggests that he did</sp></speech></l></p></div>
+      </body>
+   </text>
+</TEI>
